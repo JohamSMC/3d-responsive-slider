@@ -44,10 +44,10 @@ body
 	font-size: 1.5em;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 900px) {
 	.swiper-slide p
 	{
-		font-size: 1em;
+		font-size: 3em;
 	}
 	#div-Typed 		
 	{		
