@@ -2,5 +2,5 @@
 
 3D Responsive Slider with My favorite basketball Players
 
-### [DEMO](https://johamsmc.github.io/html-3dResponsiveSlider/)
+### [DEMO](https://johamsmc.github.io/html-3dResponsiveSlider/index.html)
 
